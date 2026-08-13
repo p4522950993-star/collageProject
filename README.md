@@ -1,6 +1,8 @@
 # collageProject
 
-Name : E-Soprt 
+Name : E-Soprt
 
 Game Name : Free Fire
+
+More games : BGMI, Velorant
 
